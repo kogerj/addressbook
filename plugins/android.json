@@ -9,6 +9,12 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.example.addressbook"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.addressbook"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.example.addressbook"
     }
   },
   "dependent_plugins": {}
