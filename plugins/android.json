@@ -21,6 +21,15 @@
     },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "com.example.addressbook"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.addressbook"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.example.addressbook"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.addressbook"
     }
   },
   "dependent_plugins": {}
